@@ -28,3 +28,32 @@
 
 
 
+
+## Lessons
+1) Intro to Cloud computing . Intro to AWS. 
+2) What's the value proposition of Cloud Computing?
+3) Types of Cloud computing and Design Principles
+4) AWS Global Infrastructure
+5) Major Services Overview
+6) Security
+7) Storage
+8) Compute
+9) Database
+10) IAM
+11) App Integration
+12) Monitoring and Logginh
+13) Other Services
+14) Summary
+15) Quiz
+
+
+
+
+## WhitePapers
+https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+
+
+
+
+
