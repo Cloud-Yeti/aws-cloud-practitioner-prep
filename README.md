@@ -29,7 +29,7 @@
 
 
 
-## Lessons
+## Lessons 
 1) Intro to Cloud computing . Intro to AWS. 
 2) What's the value proposition of Cloud Computing?
 3) Types of Cloud computing and Design Principles
@@ -49,11 +49,22 @@
 
 
 
+
+
+
 ## WhitePapers
 https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
 https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf
 
 
 
+
+## Links and resources
+- Exam Page: https://aws.amazon.com/certification/certified-cloud-practitioner/
+- Exam Guide: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
+- Official sample exam questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
+- AWS Support plans: https://aws.amazon.com/premiumsupport/compare-plans/
 
 
