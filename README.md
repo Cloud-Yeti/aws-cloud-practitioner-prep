@@ -3,9 +3,15 @@
 ## Course Contents
 
 ### Domain 1: Cloud Concepts
-- 1.1 Define the AWS Cloud and its value proposition
-- 1.2 Identify aspects of AWS Cloud economics
+- 1.1 Define the AWS Cloud and its value proposition 
+  - [AWS Overview Whitepaper](https://d0.awsstatic.com/whitepapers/aws-overview.pdf) Pg 1-2 
+  
+- 1.2 Identify aspects of AWS Cloud economics 
+  - Pay-as-you-go
+  - Reserved capacity
+  - TCO whitepaper 
 - 1.3 List the different cloud architecture design principles
+  - AWS Best practices whitepaper
 
 ### Domain 2: Security
 - 2.1 Define the AWS Shared Responsibility model
@@ -53,17 +59,17 @@
 
 
 ## WhitePapers
-https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
-https://d0.awsstatic.com/whitepapers/aws-overview.pdf
-https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
-https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf
+- https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+- https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+- https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+- https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf
 
 
 
 
 ## Links and resources
 - Exam Page: https://aws.amazon.com/certification/certified-cloud-practitioner/
-- Exam Guide: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
+- Exam Guide and blueprint: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF
 - Official sample exam questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF
 - AWS Support plans: https://aws.amazon.com/premiumsupport/compare-plans/
 
