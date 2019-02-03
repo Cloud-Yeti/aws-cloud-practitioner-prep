@@ -128,7 +128,7 @@ analytics)
 
 ## Links and resources
 - [Officia Exam Page](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- [Exam Guide and blueprint] (https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF)
+- [Exam Guide and blueprint](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practitioner_Exam_Guide_v1.4_FINAL.PDF)
 - [Official sample exam questions](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF)
 - [AWS Support plans:](https://aws.amazon.com/premiumsupport/compare-plans/)
 
