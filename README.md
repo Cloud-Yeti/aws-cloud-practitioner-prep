@@ -1,5 +1,23 @@
 # AWS cloud practioner course
 
+
+## This exam validates an examinee’s ability to:
+- Define what the AWS Cloud is and the basic global infrastructure
+- Describe basic AWS Cloud architectural principles [Best Practice Whitepaper] (https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)  
+- Describe the AWS Cloud value proposition 
+- Describe key services on the AWS platform and their common use cases (for example, compute and
+analytics)
+- Describe basic security and compliance aspects of the AWS platform and the shared security model
+- Define the billing, account management, and pricing models
+- **One of our Core Philosophy**: Identify sources of documentation or technical assistance (for example, whitepapers or support tickets)
+  - we will open a support ticket
+  - Documentation
+  - Github
+  - Forums 
+  - Support plans
+  
+- Describe basic/core characteristics of deploying and operating in the AWS Cloud.
+
 ## Course Contents
 
 ### Domain 1: Cloud Concepts
