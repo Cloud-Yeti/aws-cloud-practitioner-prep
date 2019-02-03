@@ -41,8 +41,9 @@ analytics)
     - Cloudtrail
     - Access Logs
     - encryption
-    - [AWS Compliance Page](https://aws.amazon.com/compliance/)
     - Trusted Advisor
+    - Layered Security ( NACL and SG)
+    - [AWS Compliance Page](https://aws.amazon.com/compliance/)
 - 2.3 Identify AWS access management capabilities
     - IAM
    
@@ -53,24 +54,30 @@ analytics)
 
 ### Domain 3: Technology (36%)
 - 3.1 Define methods of deploying and operating in the AWS Cloud
-   - Fault Tolerant
-   - Scalable and Elastic
-   - Well Architected Framework
+     - Fault Tolerant
+     - Scalable and Elastic
+     - Infrastructure as Code 
+     - Opsworks
+     - Elastic Beanstalk
+     - AWS DevOps Suite
+   
    
 - 3.2 Define the AWS global infrastructure
     - Region , Zones and Edge location
     
 - 3.3 Identify the core AWS services
      - Compute 
+     - Network
      - Storage
      - Databases
      - IAM and security
-     - Analytics
-     - Integration 
-     - Deployment
+     - Integration (SQS, SNS)
+     - Deployment (CF, Beanstalk) : just touch on this topic
+
 
 - 3.4 Identify resources for technology support
-    - Support Center
+     - Support Center
+     - Documentation
 
 
 
@@ -79,14 +86,19 @@ analytics)
   - Reserved Instanced, Reserved Capacity
   - Pay as you go
   - Spot instances
+  - Fundamental Of Pricing ( request, data transfer, storage cost) 
+  
   
 - 4.2 Recognize the various account structures in relation to AWS billing and pricing
   - Consolidated Billing
   - Billing info access 
+  - AWS Free Tier
   
 - 4.3 Identify resources available for billing support
+
   - https://aws.amazon.com/tco-calculator/
   - Support Center
+  
 
 
 
@@ -107,7 +119,7 @@ analytics)
 13) Other Services
 14) Summary
 15) Quiz
-  - [Official Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF)
+   - [Official Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF)
   - [Our Youtube Video Solving the sample questions](https://www.youtube.com/analytics?o=U#dt=nt,fe=17928,fr=lw-001,fs=17901;fc=0,fcr=0,fi=v-JGQUuOdyoZY,r=summary,rps=93)
 
 
