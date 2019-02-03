@@ -27,14 +27,19 @@ analytics)
 - 1.2 Identify aspects of AWS Cloud economics 
   - Pay-as-you-go
   - Reserved capacity
-  - TCO whitepaper 
+  - [TCO whitepaper](https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf)
 - 1.3 List the different cloud architecture design principles
-  - AWS Best practices whitepaper
+  - [AWS Best practices whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 
 ### Domain 2: Security
-- 2.1 Define the AWS Shared Responsibility model
+- 2.1 [Define the AWS Shared Responsibility model](shared-responsibility-model.MD)
 - 2.2 Define AWS Cloud security and compliance concepts
+    - Cloudtrail
+    - Access Logs
+    - encryption
+    - [AWS Compliance Page](https://aws.amazon.com/compliance/)
 - 2.3 Identify AWS access management capabilities
+    - IAM
 - 2.4 Identify resources for security support
 
 
