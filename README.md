@@ -3,7 +3,7 @@
 
 ## This exam validates an examinee’s ability to:
 - Define what the AWS Cloud is and the basic global infrastructure
-- Describe basic AWS Cloud architectural principles [Best Practice Whitepaper] (https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)  
+- Describe basic AWS Cloud architectural principles [Best Practice Whitepaper](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)  
 - Describe the AWS Cloud value proposition 
 - Describe key services on the AWS platform and their common use cases (for example, compute and
 analytics)
@@ -68,7 +68,7 @@ analytics)
 12) Monitoring and Logginh
 13) Other Services
 14) Summary
-15) Quiz [Official Sample Exam Questions](Official sample exam questions: https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF)
+15) Quiz [Official Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS%20Certified%20Cloud%20Practioner_Sample%20Questions_v1.1_FINAL.PDF)
 
 
 
