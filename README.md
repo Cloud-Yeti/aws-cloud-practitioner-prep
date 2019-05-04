@@ -1,5 +1,6 @@
 # AWS cloud practioner course
 
+### Passing Score: 700 out of 1000( about 70%)
 
 ## This exam validates an examinee’s ability to:
 - Define what the AWS Cloud is and the basic global infrastructure
@@ -28,11 +29,13 @@ analytics)
   - Pay-as-you-go
   - Reserved capacity
   - [TCO whitepaper](https://d1.awsstatic.com/whitepapers/aws-tco-web-applications.pdf)
-- 1.3 List the different cloud architecture design principles for deploying and migration to the cloud
+  - Capital Expense vs Variable Expense . One of the 6 Advantages of Cloud mentioned in the [whitepaper Pg 1](https://d0.awsstatic.com/whitepapers/aws-overview.pdf) 
+  
+- 1.3 List the different cloud architecture design principles for deploying and migration to the cloud and it's design principles
+
   - [AWS Best practices whitepaper](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
   - [AWS Migration Whitepaper](https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf)
-  - [AWS Well Archicted Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) and it's design principles
-
+  - [AWS Well Archicted Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) 
   
 
 ### Domain 2: Security(24%)
